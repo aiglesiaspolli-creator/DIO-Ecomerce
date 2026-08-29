@@ -7,5 +7,5 @@ Com o objetivo de administrar um ecomerce, com fluxo desde os clientes, ao forne
 Fico muito feliz de desenvolver mais um projeto com a DIO e será mais um certificado concluído.
 
 
-##Arquivos
+## Arquivos
 Estará anexado neste repositório 3 arquivos nas quais são a criação do database em sql, um com seeds de alimentação de dados, e o último com os queries realizados para consult dentro do database criando no Workspace.
