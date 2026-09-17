@@ -1,8 +1,3 @@
-Subtítulo Sugerido:
-
-Modelagem Relacional, Povoamento e Consultas SQL para Gerenciamento de E-commerce
-
-Markdown
 # 🛒 DIO E-commerce Database
 > Modelagem Relacional, Povoamento e Consultas SQL para Gerenciamento de E-commerce
 
